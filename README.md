@@ -1,7 +1,7 @@
 # Hi 
 I'm Salomé, Graphic Designer based in Berlin.
 
-About me:
+<h3>About me:</h3>
 I'm French 🇫🇷
 I studied Graphic Design in Berlin, Germany. Now I want to learn more about coding/developing 🖱️
 I love watching movies, so next to Graphic Design and Coding, I also work in a cinema 🍿
