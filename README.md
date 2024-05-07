@@ -1,4 +1,4 @@
-# Hi ✨
+<h2>Hi ✨</h2>
 I'm Salomé, Graphic Designer based in Berlin.
 
 <h3>About me:</h3>
